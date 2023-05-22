@@ -38,8 +38,8 @@ inquirer
         },
         {
             type: 'input',
-            name: 'contributing',
-            message: 'Contributing'
+            name: 'contributions',
+            message: 'Contributions'
         },
         {
             type: 'input',
